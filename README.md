@@ -1,2 +1,0 @@
-# jqadd.github.io
-hello
